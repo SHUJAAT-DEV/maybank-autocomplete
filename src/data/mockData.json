@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "New York",
+    "description": "New York, NY, USA",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": 2,
+    "name": "Los Angeles",
+    "description": "Los Angeles, CA, USA",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": 3,
+    "name": "Chicago",
+    "description": "Chicago, IL, USA",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "id": 4,
+    "name": "Houston",
+    "description": "Houston, TX, USA",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "id": 5,
+    "name": "Phoenix",
+    "description": "Phoenix, AZ, USA",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "id": 6,
+    "name": "Philadelphia",
+    "description": "Philadelphia, PA, USA",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "id": 7,
+    "name": "San Antonio",
+    "description": "San Antonio, TX, USA",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "id": 8,
+    "name": "San Diego",
+    "description": "San Diego, CA, USA",
+    "latitude": 32.7157,
+    "longitude": -117.1611
+  },
+  {
+    "id": 9,
+    "name": "Dallas",
+    "description": "Dallas, TX, USA",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "id": 10,
+    "name": "San Jose",
+    "description": "San Jose, CA, USA",
+    "latitude": 37.3382,
+    "longitude": -121.8863
+  },
+  {
+    "id": 11,
+    "name": "Austin",
+    "description": "Austin, TX, USA",
+    "latitude": 30.2672,
+    "longitude": -97.7431
+  },
+  {
+    "id": 12,
+    "name": "Jacksonville",
+    "description": "Jacksonville, FL, USA",
+    "latitude": 30.3322,
+    "longitude": -81.6557
+  },
+  {
+    "id": 13,
+    "name": "Fort Worth",
+    "description": "Fort Worth, TX, USA",
+    "latitude": 32.7555,
+    "longitude": -97.3308
+  },
+  {
+    "id": 14,
+    "name": "Columbus",
+    "description": "Columbus, OH, USA",
+    "latitude": 39.9612,
+    "longitude": -82.9988
+  },
+  {
+    "id": 15,
+    "name": "Charlotte",
+    "description": "Charlotte, NC, USA",
+    "latitude": 35.2271,
+    "longitude": -80.8431
+  },
+  {
+    "id": 16,
+    "name": "San Francisco",
+    "description": "San Francisco, CA, USA",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": 17,
+    "name": "Indianapolis",
+    "description": "Indianapolis, IN, USA",
+    "latitude": 39.7684,
+    "longitude": -86.1581
+  },
+  {
+    "id": 18,
+    "name": "Seattle",
+    "description": "Seattle, WA, USA",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  {
+    "id": 19,
+    "name": "Denver",
+    "description": "Denver, CO, USA",
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "id": 20,
+    "name": "Washington",
+    "description": "Washington, DC, USA",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "id": 21,
+    "name": "Boston",
+    "description": "Boston, MA, USA",
+    "latitude": 42.3601,
+    "longitude": -71.0589
+  },
+  {
+    "id": 22,
+    "name": "El Paso",
+    "description": "El Paso, TX, USA",
+    "latitude": 31.7619,
+    "longitude": -106.485
+  },
+  {
+    "id": 23,
+    "name": "Nashville",
+    "description": "Nashville, TN, USA",
+    "latitude": 36.1627,
+    "longitude": -86.7816
+  },
+  {
+    "id": 24,
+    "name": "Detroit",
+    "description": "Detroit, MI, USA",
+    "latitude": 42.3314,
+    "longitude": -83.0458
+  },
+  {
+    "id": 25,
+    "name": "Oklahoma City",
+    "description": "Oklahoma City, OK, USA",
+    "latitude": 35.4676,
+    "longitude": -97.5164
+  },
+  {
+    "id": 26,
+    "name": "Portland",
+    "description": "Portland, OR, USA",
+    "latitude": 45.5051,
+    "longitude": -122.675
+  },
+  {
+    "id": 27,
+    "name": "Las Vegas",
+    "description": "Las Vegas, NV, USA",
+    "latitude": 36.1699,
+    "longitude": -115.1398
+  },
+  {
+    "id": 28,
+    "name": "Memphis",
+    "description": "Memphis, TN, USA",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "id": 29,
+    "name": "Louisville",
+    "description": "Louisville, KY, USA",
+    "latitude": 38.2527,
+    "longitude": -85.7585
+  },
+  {
+    "id": 30,
+    "name": "Baltimore",
+    "description": "Baltimore, MD, USA",
+    "latitude": 39.2904,
+    "longitude": -76.6122
+  }
+]
