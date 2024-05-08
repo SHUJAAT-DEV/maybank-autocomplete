@@ -11,7 +11,7 @@ interface SearchState {
 const initialState: SearchState = {
   query: '',
   isLoading: false,
-  results: [],
+  results: [ ],
 };
 
 export const searchPlaces = createAsyncThunk(
